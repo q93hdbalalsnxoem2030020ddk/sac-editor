@@ -24,3 +24,5 @@ sac++ is a text editor. It is fast and not heavy. It is simple and easy to use.
 ## Thank you
 
 Thank you for using sac++. You can help or change the code if you want.
+
+feedback or support: sac-service@outlook.com
