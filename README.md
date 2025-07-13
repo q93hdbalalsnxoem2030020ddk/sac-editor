@@ -1,6 +1,6 @@
 ![sac++ preview](preview/prev.jpg)
 
-# sac++ text editor
+### SAC++ text editor
 
 sac++ is a text editor. It is fast and not heavy. It is simple and easy to use.
 
