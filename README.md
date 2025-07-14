@@ -6,7 +6,7 @@ sac++ is a text editor. It is fast and not heavy. It is simple and easy to use.
 
 ## Features
 
-- Fast and small
+- Small
 - Easy to use
 - Work in terminal
 - No mouse, only keyboard
