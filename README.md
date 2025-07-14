@@ -20,7 +20,7 @@ sac++ is a text editor. It is fast and not heavy. It is simple and easy to use.
 - You do not need many features
 - You want to use keyboard only
 
-we still updating the editor, especially the highlight for syntax.
+we still updating the editor, especially the highlight for syntax and the memory handling.
 ## Thank you
 
 Thank you for using sac++. You can help or change the code if you want.
